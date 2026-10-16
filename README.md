@@ -1,4 +1,4 @@
-# Hi, I'm Aansh Singh 👋
+# Hi, I'm Aansh Singh 
 
 Computer Science student at **UCLA Samueli School of Engineering**, interested in building reliable software systems, AI-powered developer tools, and intelligent systems.
 
