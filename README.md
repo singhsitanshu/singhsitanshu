@@ -2,4 +2,4 @@
 
 Computer Science student at UCLA.
 
-Click [here](https://aanshsingh.com) to learn more
+Click [here](https://aanshsingh.com) to learn more.
